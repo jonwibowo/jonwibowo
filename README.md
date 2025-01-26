@@ -31,4 +31,4 @@ I'm currently a Master's student in **Computational Social Science (MaCSS)** at 
 - **Email**: jonathan_wibowo@berkeley.edu
 
 🌟 **Fun Fact**  
-When I'm not experimenting with data, I enjoy bouldering, hiking, and exploring the Bay Area.
+When I'm not in front of my computer, I enjoy bouldering (mostly at Mosaic), hiking, and exploring the Bay Area.
