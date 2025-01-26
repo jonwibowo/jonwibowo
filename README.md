@@ -27,7 +27,7 @@ I'm currently a Master's student in **Computational Social Science (MaCSS)** at 
 
 📫 **Connect With Me**
 
-- **LinkedIn**: [linkedin.com/in/jonathan-wibowo](https://www.linkedin.com/in/jonathan-wibowo)
+- **LinkedIn**: [linkedin.com/in/jonathan-wibowo](https://www.linkedin.com/in/jonathanwibowo1)
 - **Email**: jonathan_wibowo@berkeley.edu
 
 🌟 **Fun Fact**  
