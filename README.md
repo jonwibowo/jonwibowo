@@ -4,6 +4,7 @@
 
 🌟 **About Me**  
 I'm currently a Master's student in **Computational Social Science (MaCSS)** at **UC Berkeley**. I am experienced in analyzing social and behavioral data. 
+
 📚 **Areas of Interest**
 
 - **Human-AI Interaction**: Exploring how AI technologies influence user behavior and decision-making.
