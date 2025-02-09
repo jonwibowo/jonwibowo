@@ -1,6 +1,6 @@
 ### **Hello! I'm Jonathan Wibowo**
 
-**Computational Social Scientist | Data & AI Enthusiast**
+**Computational Social Scientist | Machine Learning & LLMs**
 
 🌟 **About Me**  
 I'm currently a Master's student in **Computational Social Science (MaCSS)** at **UC Berkeley**. I am experienced in analyzing social and behavioral data. 
