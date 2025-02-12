@@ -13,7 +13,7 @@ I'm currently a Master's student in **Computational Social Science (MaCSS)** at 
 
 📂 **Featured Projects**
 
-1. **[Graduate Data Corps Chatbot](https://huggingface.co/spaces/jonwibowo/GDC_Chatbot)**: Co-founded a UC Berkeley organization connecting graduate data students with 80+ real-world project partners. Built a Retrieval Augmented Generation (RAG) chatbot to help students with project discovery and matching. Find out more about the specifics [here](https://github.com/jonwibowo/GDC-Chatbot/tree/main). 
+1. **[Graduate Data Corps Chatbot](https://huggingface.co/spaces/jonwibowo/GDC_Chatbot)**: Built a Retrieval Augmented Generation (RAG) chatbot to help students with project discovery and matching. Find out more about the specifics [here](https://github.com/jonwibowo/GDC-Chatbot/tree/main). 
 2. **[LLM-Based Scientific Data Extraction](#)**: Developed a pipeline using LLMs and vision models for scientific literature mining, achieving 90% extraction accuracy and a 30% performance improvement through advanced prompt engineering techniques.
 3. **[NLP Sentiment Analysis on Spotify](#)**: Scraped and analyzed Reddit data using BERT models to uncover pain points in Spotify’s AI DJ feature, providing actionable recommendations.
 4. **[Kaggle Bronze Medal](#)**: Predicted problematic internet use based on behavioral data using various regression models, ranking in the top 6% on the final leaderboard.
