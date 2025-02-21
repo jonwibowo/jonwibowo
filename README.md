@@ -3,7 +3,7 @@
 **Computational Social Scientist | Machine Learning & LLMs**
 
 🌟 **About Me**  
-I'm currently a Master's student in **Computational Social Science (MaCSS)** at **UC Berkeley**. I am experienced in analyzing social and behavioral data. 
+I'm currently a Master's student in **Computational Social Science (MaCSS)** at **UC Berkeley**. I am experienced in analyzing social and behavioral data. I enjoy analyzing complex data, and sense-making to derive meaningful insights. Open to data analyst/ data scientist roles!
 
 📚 **Areas of Interest**
 
