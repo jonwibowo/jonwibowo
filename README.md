@@ -20,10 +20,14 @@ I'm currently a Master's student in **Computational Social Science (MaCSS)** at 
 
 💻 **Skills**
 
-- **Programming**: Python (NLP with SpaCy, HuggingFace Sentence Transformers, BERT), R (network analysis, causal inference), SQL (SQLite, MySQL).
-- **Machine Learning**: Predictive modeling, LLM fine-tuning, and hyperparameter optimization.
-- **Visualization**: Tableau, Matplotlib, Seaborn, Plotly, ggplot2.
-- **Frameworks/Tools**: LangChain, Pydantic, Optuna, Selenium, Playwright.
+•	**Data Visualization**: Matplotlib, Plotnine, Seaborn, Plotly, Tableau, PowerBI
+•	**Statistical Analysis**: Causal Inference (Hypothesis Testing, Regression, Differences-in-Differences), Statistical Packages (R, JASP, SPSS)
+•	**Database**: SQL (SQLite, MySQL), Microsoft Access
+•	**LLMs**: Prompt Engineering, Model Fine-Tuning (Gemini, Claude, OpenAI), Retrieval Augmented Generation, Metric Evaluation 
+•	**Machine Learning**: Predictive Modelling, Model Optimization, Natural Language Processing
+•	**Data Analysis**: Data Cleaning, Data Preprocessing, Python (Scikit-learn, Pandas, Spacy, HuggingFace Transformers), R (Tidyverse, Statistical Analysis, Causal Inference)
+•	**Languages**: Malay and Indonesian (Fluent), German and Mandarin (Basic Proficiency)
+
 
 📫 **Connect With Me**
 
