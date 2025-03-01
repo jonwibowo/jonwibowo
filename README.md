@@ -3,7 +3,7 @@
 **Computational Social Scientist | Machine Learning & LLMs**
 
 🌟 **About Me**  
-I explore the intersection of technology and the social world through data analysis, predictive modeling, and visualization. I turn complex information into meaningful insights, with a strong focus on data quality and understanding. Currently a Master's student in Computational Social Science (MaCSS) at UC Berkele
+I explore the intersection of technology and the social world through data analysis, predictive modeling, and visualization. I turn complex information into meaningful insights, with a strong focus on data quality and understanding. Currently a Master's student in Computational Social Science (MaCSS) at UC Berkeley.
 
 📚 **Areas of Interest**
 
