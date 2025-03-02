@@ -9,7 +9,7 @@ I explore the intersection of technology and the social world through data analy
 
 - **Human-AI Interaction**: Exploring how AI technologies influence user behavior and decision-making.
 - **Natural Language Processing**: Analyzing text data to understand trends and perceptions.
-- **AI Applications**: Harnessing large language models/ vision models to address real-world challenges in user experience, education, and businesses.
+- **Health Data Science**: Applying machine learning and statistical methods to analyze health-related data.
 
 📂 **Featured Projects**
 
